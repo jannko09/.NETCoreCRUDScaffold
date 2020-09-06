@@ -1,7 +1,14 @@
 # NETCore-CRUD-Template
 
-Swagger v5.5.1
-Automapper v10
-EntityFrameworkCore.SqlServer v3.1.7
+Deps:
+<ul>
+<li>Swagger v5.5.1</li>
+<li>Automapper v10</li>
+<li>EntityFrameworkCore.SqlServer v3.1.7</li>
+</ul>
 
 UnitTests apply SQLLite 
+
+Configurations: 
+
+Todo.Configuration Project has configured Pincode
