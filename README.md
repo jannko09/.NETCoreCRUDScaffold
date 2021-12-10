@@ -1,5 +1,7 @@
 # NETCore-CRUD-Template
 
+Created to quickly scaffold .netcore backend
+
 Deps:
 <ul>
 <li>Swagger v5.5.1</li>
